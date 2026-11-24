@@ -1,0 +1,426 @@
+Designer, developer and motion artist · Pakistan, working worldwide
+Hasan
+Zafar
+I design and build websites that don't fit in templates. Webflow at its limits, custom code beyond them, and motion that makes people stay.
+
+See the work
+Start a project
+Selected work
+Scroll to explore
+
+Selected work
+06
+/ 06
+
+
+
+
+
+Bedford Center for ProsthodonticsDental implants · NH
+A specialist practice site with a before-and-after smile gallery, doctor profiles and a blog.
+
+Visit live site
+View every project
+Three crafts, one person
+Most projects pass through a designer, a developer and a motion specialist. With me, it's one mind from first sketch to launch. Play with them.
+
+Design
+Art direction, layout and type systems. Every pixel placed on purpose.
+
+// one line, one feeling
+animate(".block", {
+  x: "100%",
+  rotate: 360,
+  ease: "elastic"
+})
+Run it
+Development
+Webflow, Client-First, custom JavaScript, CMS and API integrations.
+
+Motion
+GSAP, Anime.js and interactions that feel alive without slowing the page.
+
+Webflow
+Client-First
+GSAP
+Anime.js
+Custom JS
+CMS
+SEO
+API integration
+Shopify
+WordPress
+UI/UX
+Accessibility
+One site, built for every screen.
+Layouts reflow from phone to tablet to laptop to desktop without losing their shape. Same content, rebuilt for each width.
+
+1440
+px wide
+
+Mobile
+375px
+
+Tablet
+768px
+
+Laptop
+1280px
+
+Desktop
+1440px
+
+Explore the full site
+You're looking at snapshots. Load the full site to scroll through it inside the screen.
+
+gasgrp.com
+Click to explore the full site
+I grew up getting lost in books, and somewhere along the way, imagination became second nature.
+
+Working with websites gradually sharpened my eye for visual balance, thoughtful design, and the little details that make an experience feel right. Today, that perspective shapes the way I develop. I enjoy figuring out how things should work, where they could work better, and how to bring ideas to life through clean code, purposeful interactions, and careful attention to detail.
+
+I take on one project at a time. You get my full attention, and when we launch, I teach your team how to run it.
+
+Hasan Zafar
+50+
+projects shipped
+Open to new projectsBased in Karachi, PK
+DESIGNER • DEVELOPER • MOTION • WEBFLOW •
+HZ
+Hasan Zafar · Karachi, Pakistan
+A clear process, from the first conversation to launch.
+Every project has its own challenges, but a good process makes the work easier to navigate. From defining the direction to building and refining the final experience, each stage has a purpose.
+
+06
+/ 06
+Step 01 of 06
+Understanding the brief
+Getting clear on your goals, audience, and requirements before deciding what the website needs to be.
+
+Step 02 of 06
+Structure & direction
+Organizing content, defining page layouts, and establishing a visual direction that fits your brand and message.
+
+Step 03 of 06
+Design & interaction
+Turning the direction into polished layouts, considered details, and interactions that make the experience feel complete.
+
+Step 04 of 06
+Webflow development
+Building responsive pages with clean structure, reusable components, and an editing experience your team can work with.
+
+Step 05 of 06
+Refinement & testing
+Checking layouts across devices, fine-tuning interactions, and resolving issues before the site goes live.
+
+Step 06 of 06
+Launch & beyond
+Publishing the finished website, helping you get comfortable with Webflow, and making room for future improvements.
+
+
+01
+Brief
+02
+Structure
+03
+Design
+04
+Build
+05
+Refine
+06
+Launch
+The track record
+3+ years in Webflow development, 50+ projects delivered, and experience working with clients across industries.
+
+2023 – Present
+Freelance Webflow Developer
+Building websites, developing Figma designs in Webflow, improving existing builds, and creating custom interactions.
+
+Client partnerships
+Fiverr and direct collaborations
+Working with clients on everything from complete website builds to fixes, refinements, and ongoing improvements.
+
+What clients got
+
+−40%
+load time
++50%
+organic traffic
++40%
+conversions
+−25%
+build time with reusable systems
+Certified by Webflow University
+
+Webflow Practitioner
+Certification
+CMS
+Certification
+Layouts, levels 1 and 2
+Certification
+Webflow 101
+Certification
+Bachelor's in Commerce
+2022 – now
+My kind of world tour.
+Different countries, time zones, industries, and ideas all connected through the work we create together. Each collaboration brings a new perspective and a unique challenge, with one shared goal: building distinctive websites that make brands stand out and businesses move forward.
+
+Pakistan
+United States
+Canada
+United Kingdom
+Netherlands
+Germany
+Switzerland
+Spain
+Nigeria
+South Africa
+India
+Laos
+Australia
+What clients say
+Learn how I forcefully befriended my clients and tricked them into writing nice things about me. Fair warning: you’re next. Oh, and by the way, I’m already saving you a seat :)
+
+←
+→
+1 / 9
+Project estimator
+Let's scope your project.
+Pick what you need. The price and timeline update as you go, and we'll confirm everything on a call before work starts.
+
+
+01
+Project type
+What are we building?
+
+Landing page
+$450
+
+Full website
+$1,325
+
+Website redesign
+$1,050
+
+Figma to Webflow
+$875
+
+Webflow fixes & improvements
+from $125
+
+02
+Design
+What do you have in mind?
+
+Design from scratch
+$450
+
+Figma design provided
+Included
+
+Reference or template
+$175
+
+Improve existing design
+$450
+
+03
+Page count
+How many pages do you need?
+
+1 page
+Included
+
+2–5 pages
+Included
+
+6–10 pages
+$275
+
+11–20 pages
+$700
+
+20+ pages
+$1,325
+
+Not sure yet
+Included
+
+04
+CMS
+Will the site have dynamic content?
+
+No CMS
+Included
+
+Basic CMS collection
+$125
+
+Multiple related collections
+$300
+
+Advanced CMS & filtering
+$525
+
+Not sure yet
+Included
+
+05
+Animations
+What kind of experience are you after?
+
+Minimal / static
+Included
+
+Subtle reveals & hovers
+$100
+
+Advanced GSAP / parallax
+$350
+
+Immersive scroll animations
+$700
+
+06
+Integrations
+Select all that apply.
+
+Contact form / email marketing
++$50
+
+CRM
++$125
+
+Booking / scheduling
++$100
+
+Payments / ecommerce
++$350
+
+External API / custom functionality
++$450
+
+No integrations
+—
+
+07
+Content & assets
+How ready is your content?
+
+Everything is ready
+Included
+
+Minor content help
+$100
+
+Copywriting
+$350
+
+Image sourcing & asset prep
+$125
+
+Copywriting + asset prep
+$450
+
+08
+Timeline
+When would you like to launch?
+
+Flexible
+Included
+
+1–2 months
+Included
+
+3–4 weeks
+Included
+
+1–2 weeks
+$100
+
+ASAP / rush
+$175
+☕
+Prices aren’t set in stone. Buy me a good coffee and we can talk numbers.
+
+Estimated price
+$900
+About 6 working days · estimate
+Project type
+$450
+Design
+$450
+Page count
+—
+CMS
+—
+Animations
+—
+Integrations
+—
+Content & assets
+—
+Timeline
+—
+Initial estimate. Final scope, availability and timeline are confirmed before work begins.
+
+Start over
+Copy estimate
+Send this estimate
+Questions, answered
+Anything else on your mind? Ask it in the form below.
+
+
+What kinds of websites do you work on?
+
+
+Do you handle both design and development?
+
+
+Why build your website in Webflow?
+
+
+What does working together look like?
+
+
+How long does a website project take?
+
+
+How much does a website cost?
+
+
+Can you improve a website I already have?
+
+
+Will I be able to update my website after launch?
+
+
+Do you offer support after launch?
+
+
+Do you work with clients internationally?
+
+Let's talk. No strings attached.
+You don't need a brief, a budget or a finished idea. Whether you have a project in mind, a half-formed thought, or just a question about Webflow, say hi. I'll reply within a day, and there's no obligation to take things further.
+
+↗
+Book a free call
+Pick a time that suits you on my calendar.
+@
+Email me directly
+hasanzafar908@gmail.com
+Name *
+Email *
+Phone (optional)
+What's on your mind? (optional)
+A project, a rough idea, a question or just wanna talk about Professor Snape or Jon Snow, I'd love to hear
+
+Send message
+Goes straight to my inbox. I'll reply within a day.
+
+© 2026 Hasan Zafar. Built beyond the template.
+Psst. Wizards know the spell for light.
+LinkedIn
+Instagram
+X
