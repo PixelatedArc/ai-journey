@@ -1,0 +1,9 @@
+[    3142ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://staging.daxprojects.com/dryousefian/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:2
+[   50187ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://staging.daxprojects.com/dryousefian/robots.txt:1
+[   50711ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://staging.daxprojects.com/dryousefian/wp-json/wp/v2/users:1
+[   52028ms] [ERROR] Failed to load resource: the server responded with a status of 405 () @ https://staging.daxprojects.com/dryousefian/xmlrpc.php:1
+[   55684ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://staging.daxprojects.com/dryousefian/?author=1:1
+[   85437ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://staging.daxprojects.com/dryousefian/wp-content/uploads/:1
+[   85746ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://staging.daxprojects.com/dryousefian/wp-content/debug.log:1
+[   86499ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://staging.daxprojects.com/dryousefian/sample-page/:1
+[   87749ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://staging.daxprojects.com/meet-dr-yousefian:1

@@ -1,0 +1,287 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Yousefian Orthodontics" [ref=e7]
+      - generic [ref=e8]:
+        - link "(425) 200-4808" [ref=e9] [cursor=pointer]:
+          - /url: tel:4252004808
+        - link "Schedule Now" [ref=e10] [cursor=pointer]:
+          - /url: https://book2.getweave.com/469314a1-14ae-4036-8b5e-c4edef8c9a74/request-appointment
+      - generic [ref=e11]:
+        - link "SMILE GALLERY" [ref=e12] [cursor=pointer]:
+          - /url: /before-and-after
+        - link "Patient Referral" [ref=e13] [cursor=pointer]:
+          - /url: https://forms.wv3.io/form?formId=f589752d-4996-43d8-a858-5b32e4bbb442&companyId=469314a1-14ae-4036-8b5e-c4edef8c9a74
+    - navigation [ref=e14]:
+      - generic [ref=e16]:
+        - button "menu" [ref=e17] [cursor=pointer]
+        - list [ref=e23]:
+          - listitem [ref=e24]:
+            - link "Home" [ref=e25] [cursor=pointer]:
+              - /url: /home
+          - listitem [ref=e26]:
+            - link "Our Office" [ref=e27] [cursor=pointer]:
+              - /url: /meet-dr-yousefian
+            - list:
+              - listitem:
+                - link "Meet Dr. Yousefian" [ref=e28] [cursor=pointer]:
+                  - /url: /meet-dr-yousefian
+              - listitem:
+                - link "Office Tour" [ref=e29] [cursor=pointer]:
+                  - /url: /office-tour
+              - listitem:
+                - link "What Sets Us Apart" [ref=e30] [cursor=pointer]:
+                  - /url: /what-sets-us-apart
+              - listitem:
+                - link "Interviews" [ref=e31] [cursor=pointer]:
+                  - /url: /interviews
+          - listitem [ref=e32]:
+            - link "For Patients" [ref=e33] [cursor=pointer]:
+              - /url: /office-visits
+            - list:
+              - listitem:
+                - link "Office Visits" [ref=e34] [cursor=pointer]:
+                  - /url: /office-visits
+              - listitem:
+                - link "Financial Information" [ref=e35] [cursor=pointer]:
+                  - /url: /financial-information
+              - listitem:
+                - link "Testimonials" [ref=e36] [cursor=pointer]:
+                  - /url: /testimonials
+              - listitem:
+                - link "Smile Gallery" [ref=e37] [cursor=pointer]:
+                  - /url: /smile-gallery
+              - listitem:
+                - link "ABO Certification" [ref=e38] [cursor=pointer]:
+                  - /url: /abo-certification
+              - listitem:
+                - link "Patient Forms" [ref=e39] [cursor=pointer]:
+                  - /url: /patient-forms
+              - listitem:
+                - link "Patient Care Videos" [ref=e40] [cursor=pointer]:
+                  - /url: /patient-care-videos
+          - listitem [ref=e41]:
+            - link "TMJ-TMD" [ref=e42] [cursor=pointer]:
+              - /url: /tmj-tmd
+          - listitem [ref=e43]:
+            - link "Sleep Apnea" [ref=e44] [cursor=pointer]:
+              - /url: /sleep-apnea
+          - listitem [ref=e45]:
+            - link "Treatments" [ref=e46] [cursor=pointer]:
+              - /url: /early-orthodontic-treatment
+            - list:
+              - listitem:
+                - link "Early Orthodontic Treatment" [ref=e47] [cursor=pointer]:
+                  - /url: /early-orthodontic-treatment
+              - listitem:
+                - link "Invisalign® Treatment" [ref=e48] [cursor=pointer]:
+                  - /url: /invisalign-treatment
+              - listitem:
+                - link "Oral and Maxillofacial Surgery" [ref=e49] [cursor=pointer]:
+                  - /url: /oral-and-maxillofacial-surgery
+              - listitem:
+                - link "Palatal Expander" [ref=e50] [cursor=pointer]:
+                  - /url: /palatal-expander
+              - listitem:
+                - link "Upper Jaw Expansion" [ref=e51] [cursor=pointer]:
+                  - /url: /upper-jaw-expansion
+              - listitem:
+                - link "Lower Jaw Expansion" [ref=e52] [cursor=pointer]:
+                  - /url: /lower-jaw-expansion
+          - listitem [ref=e53]:
+            - link "Teledontics" [ref=e54] [cursor=pointer]:
+              - /url: https://www.teledontics.com/
+          - listitem [ref=e55]:
+            - link "Contact" [ref=e56] [cursor=pointer]:
+              - /url: /office-location
+            - list:
+              - listitem:
+                - link "Office Location" [ref=e57] [cursor=pointer]:
+                  - /url: /office-location
+              - listitem:
+                - link "Schedule Now" [ref=e58] [cursor=pointer]:
+                  - /url: https://book2.getweave.com/469314a1-14ae-4036-8b5e-c4edef8c9a74/request-appointment
+              - listitem:
+                - link "Patient Referral" [ref=e59] [cursor=pointer]:
+                  - /url: https://forms.wv3.io/form?formId=f589752d-4996-43d8-a858-5b32e4bbb442&companyId=469314a1-14ae-4036-8b5e-c4edef8c9a74
+  - generic [ref=e62]:
+    - generic [ref=e63]: Health
+    - text: transformations for
+    - generic [ref=e65]: teens
+  - generic [ref=e68]:
+    - img "Dr. Yousefian" [ref=e69]
+    - generic [ref=e70]:
+      - link [ref=e71] [cursor=pointer]:
+        - /url: https://www.americanboardortho.com/
+        - img "board certified american board of orthodontics" [ref=e72]
+      - generic [ref=e73]:
+        - heading [level=2] [ref=e74]:
+          - link "meet Dr. Yousefian" [ref=e75] [cursor=pointer]:
+            - /url: /meet-dr-yousefian
+        - paragraph [ref=e76]: I believe orthodontics is about far more than creating a beautiful smile. By improving facial growth and development, breathing, jaw function, and sleep, we can enhance our patients' overall health, well-being, and quality of life. Throughout my career, I have advanced this philosophy through compassionate patient care, scientific research, education, and innovation. My goal is to help redefine the future of orthodontics by integrating these disciplines into a comprehensive, evidence-based approach that bridges medical and dental sciences and technologies and benefits patients of all ages.
+        - link "read more about Dr. Yousefian" [ref=e77] [cursor=pointer]:
+          - /url: /meet-the-team
+          - text: read more
+          - generic [ref=e78]: about Dr. Yousefian
+        - link "Doctors' Interviews" [ref=e79] [cursor=pointer]:
+          - /url: /interviews
+      - generic: meet the doctor
+  - main [ref=e82]:
+    - heading "Welcome to Yousefian Orthodontics" [level=1] [ref=e84]:
+      - generic [ref=e85]: Welcome to
+      - text: Yousefian
+      - generic [ref=e86]: Orthodontics
+    - generic [ref=e87]:
+      - paragraph [ref=e88]:
+        - text: For more than 30 years,
+        - link "Dr. Joseph Z. Yousefian" [ref=e89] [cursor=pointer]:
+          - /url: /meet-dr-yousefian
+        - text: has provided leading-edge, individualized
+        - link "orthodontic care" [ref=e90] [cursor=pointer]:
+          - /url: /about-orthodontics
+        - text: . Nationally and internationally, he is a respected leader in the treatment of pediatric and adult sleep apnea and TMJ therapy. His patients achieve amazing smiles, and functional results that improve their
+        - link "quality of life" [ref=e91] [cursor=pointer]:
+          - /url: /testimonials
+        - text: "!"
+      - paragraph [ref=e92]:
+        - text: Utilizing innovative technology and techniques, Dr. Yousefian offers minimally-invasive and
+        - link "surgical options" [ref=e93] [cursor=pointer]:
+          - /url: /oral-and-maxillofacial-surgery
+        - text: for the most complex airway compromised patients. He also provides effective treatment for
+        - link "TMJ-TMD" [ref=e94] [cursor=pointer]:
+          - /url: /tmj-tmd
+        - text: ", offers"
+        - link "surgical" [ref=e95] [cursor=pointer]:
+          - /url: /surgical-orthodontics
+        - text: and
+        - link "craniofacial" [ref=e96] [cursor=pointer]:
+          - /url: /craniofacial-orthodontics
+        - text: orthodontics, and braces and
+        - link "Invisalign®" [ref=e97] [cursor=pointer]:
+          - /url: /invisalign-treatment
+        - text: clear aligners for
+        - link "children" [ref=e98] [cursor=pointer]:
+          - /url: /for-children
+        - text: and
+        - link "adults" [ref=e99] [cursor=pointer]:
+          - /url: /for-adults
+        - text: .
+      - paragraph [ref=e100]:
+        - text: Dr. Yousefian and his team want you to know
+        - link "you are heard and respected" [ref=e101] [cursor=pointer]:
+          - /url: /what-sets-us-apart
+        - text: ", and to be confident the office will do everything possible to help you. Located in"
+        - link "Bellevue, WA, Yousefian Orthodontics" [ref=e102] [cursor=pointer]:
+          - /url: /office-location
+        - text: welcomes the opportunity to ensure you achieve the health, life, and smile you deserve.
+        - link "Schedule an appointment to learn more, today" [ref=e103] [cursor=pointer]:
+          - /url: https://book2.getweave.com/469314a1-14ae-4036-8b5e-c4edef8c9a74/request-appointment
+        - text: "!"
+  - generic [ref=e105]:
+    - generic [ref=e106]:
+      - heading "adult treatment" [level=2] [ref=e107]:
+        - text: adult
+        - generic [ref=e108]: treatment
+      - paragraph [ref=e109]: "Yousefian Orthodontics straightens teeth, improving oral health and overall wellness while changing smiles, with specialized services for adults. We respect your individual concerns and will work with you to achieve your goals: efficiently and comfortably."
+      - paragraph [ref=e110]: Our approach to orthodontics goes beyond aesthetics. In focusing on improving your bite and airway concerns, Dr. Yousefian ensures you finish treatment with better function and a great smile – a smile that brims with confidence!
+      - link "learn more about adult treatment" [ref=e111] [cursor=pointer]:
+        - /url: /invisalign-treatment
+        - text: learn more
+        - generic [ref=e112]: about adult treatment
+    - generic [ref=e113]:
+      - heading "Children/Teen treatment" [level=2] [ref=e114]:
+        - text: Children/Teen
+        - generic [ref=e115]: treatment
+      - paragraph [ref=e116]: At Yousefian Orthodontics, we believe everyone deserves a bright, healthy smile they love to share. We offer proven treatment options for children and teens, correcting functional issues and guiding the development of the growing oral cavity.
+      - paragraph [ref=e117]: Utilizing leading-edge techniques and state-of-the-art appliances, Dr. Yousefian ensures proper airway function and a stable bite. The new smiles he creates last lifetimes, transforming his patients’ self-esteem and the confidence with which they take on the world!
+      - link "learn more about teen treatment" [ref=e118] [cursor=pointer]:
+        - /url: /early-orthodontic-treatment
+        - text: learn more
+        - generic [ref=e119]: about teen treatment
+    - generic [ref=e120]:
+      - heading "sleep apnea" [level=2] [ref=e121]:
+        - text: sleep
+        - generic [ref=e122]: apnea
+      - paragraph [ref=e123]: Sleep apnea can cause serious health issues at any age. As breathing stops and starts throughout your sleep period, it keeps you from being well-rested and can deprive vital organs, including the brain, from receiving enough oxygen.
+      - paragraph [ref=e124]: Dr. Yousefian is a world-renowned expert in treating sleep apnea in children and adults. Utilizing integrated techniques, he offers a non-surgical treatment that corrects the root causes of apnea. Your sleep will improve, and so will your health and outlook on life!
+      - link "learn more about sleep apnea" [ref=e125] [cursor=pointer]:
+        - /url: /sleep-apnea
+        - text: learn more
+        - generic [ref=e126]: about sleep apnea
+    - generic [ref=e127]:
+      - heading "TMJ" [level=2] [ref=e128]
+      - paragraph [ref=e130]: Millions of Americans suffer from chronic facial and neck pain as well as severe, recurring headaches. In some cases, this pain is due to Temporomandibular Disorder, also known as TMD.
+      - paragraph [ref=e131]: Your temporomandibular joints, or TMJs, connect your lower jawbone to your skull. These joints get a lot of use throughout the day as you speak, chew, swallow, and yawn.
+      - link "learn more about Temporomandibular Disorder" [ref=e132] [cursor=pointer]:
+        - /url: /tmj-tmd
+        - text: learn more
+        - generic [ref=e133]: about Temporomandibular Disorder
+  - generic [ref=e138]:
+    - link [ref=e139] [cursor=pointer]:
+      - /url: /
+      - img "Yousefian Orthodontics" [ref=e140]
+    - link "(425) 200-4808" [ref=e141] [cursor=pointer]:
+      - /url: tel:4252004808
+    - link "12715 Bel-Red Rd Suite 140 Bellevue, WA 98005" [ref=e142] [cursor=pointer]:
+      - /url: /office-location
+      - text: 
+    - link "schedule now" [ref=e144] [cursor=pointer]:
+      - /url: https://book2.getweave.com/469314a1-14ae-4036-8b5e-c4edef8c9a74/request-appointment
+    - generic [ref=e145]:
+      - link "follow us on facebook" [ref=e146] [cursor=pointer]:
+        - /url: https://www.facebook.com/JosephYousefianOrthodontics/
+      - link "review us on google" [ref=e147] [cursor=pointer]:
+        - /url: https://maps.app.goo.gl/UJMxYjEfQQZTMAGFA
+      - link "follow us on ex" [ref=e148] [cursor=pointer]:
+        - /url: https://twitter.com/YousefianOrtho
+      - link "yelp" [ref=e149] [cursor=pointer]:
+        - /url: https://www.yelp.com/biz/yousefian-orthodontics-for-children-teens-and-adults-bellevue-3
+  - contentinfo [ref=e150]:
+    - generic [ref=e151]:
+      - generic [ref=e152]:
+        - link [ref=e153] [cursor=pointer]:
+          - /url: https://www.sesamecommunications.com/web-design/
+          - text: Website Powered by Sesame 24-7
+          - superscript [ref=e157]: ™
+        - generic [ref=e158]: "|"
+        - link "Site Map" [ref=e159] [cursor=pointer]:
+          - /url: /sitemap
+        - generic [ref=e160]: "|"
+      - link "Back to Top" [ref=e162] [cursor=pointer]:
+        - /url: "#hd"
+  - iframe [ref=e163]:
+    - generic [ref=f1e2]:
+      - generic [ref=f1e3]:
+        - paragraph [ref=f1e4]: Click to send us a message.
+        - paragraph [ref=f1e5]
+      - button [ref=f1e6] [cursor=pointer]
+  - iframe [ref=e164]:
+    - generic [ref=f2e3]:
+      - banner [ref=f2e4]:
+        - generic [ref=f2e7]:
+          - paragraph [ref=f2e8]: Step 1 of 2
+          - heading "Text Us" [level=2] [ref=f2e9]
+      - main [ref=f2e10]:
+        - generic [ref=f2e12]:
+          - figure "Please enter your name, number, and message for our team!" [ref=f2e13]
+          - generic [ref=f2e31]:
+            - generic [ref=f2e32]:
+              - generic [ref=f2e34]:
+                - generic: First Name
+                - textbox "First Name" [ref=f2e35]
+              - generic [ref=f2e37]:
+                - generic: Last Name
+                - textbox "Last Name" [ref=f2e38]
+            - generic [ref=f2e41]:
+              - generic: Phone Number
+              - textbox "Phone Number" [ref=f2e42]
+            - generic [ref=f2e45]:
+              - generic: Note
+              - textbox "Note" [ref=f2e46]
+          - generic [ref=f2e48]:
+            - checkbox "By providing your phone number you agree to receive text messages from our office. Messages may be sent by automated systems." [ref=f2e50]
+            - generic [ref=f2e51]: By providing your phone number you agree to receive text messages from our office. Messages may be sent by automated systems.
+      - contentinfo [ref=f2e52]:
+        - button "Send Text" [disabled] [ref=f2e54]

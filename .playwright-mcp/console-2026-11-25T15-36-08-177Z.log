@@ -1,0 +1,33 @@
+[   26763ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://srwd.sesamehub.com/assets/v6.0/global-v6.1.0.min.css:1
+[   26764ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://srwd.sesamehub.com/assets/fonts/fontawesome-pro-6.4.2-web/css/all.min.css:1
+[   26887ms] [ERROR] Failed to load resource: net::ERR_ADDRESS_UNREACHABLE @ https://analytics.ahrefs.com/analytics.js:1
+[   27012ms] [ERROR] Failed to load resource: net::ERR_ADDRESS_UNREACHABLE @ https://www.googletagmanager.com/gtag/js?id=G-LR6DXRDRD4:1
+[   27043ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://srwd.sesamehub.com/assets/v5.0/global-5.2.0.min.js:1
+[   27520ms] [ERROR] Failed to load resource: the server responded with a status of 410 () @ https://rw1.calls.net/dni/jsrw1/fwABAWZOMJREFw1_:1
+[   27851ms] [LOG] [cycle2] --c2 init-- @ https://www.dryousefian.com/assets/js/aggregate.js:21
+[   27852ms] [LOG] [cycle2] timeout: 7500 (number) @ https://www.dryousefian.com/assets/js/aggregate.js:21
+[   27852ms] [LOG] [cycle2] slides: > div (string) @ https://www.dryousefian.com/assets/js/aggregate.js:21
+[   27852ms] [LOG] [cycle2] fx: scrollVert (string) @ https://www.dryousefian.com/assets/js/aggregate.js:21
+[   27862ms] [LOG] [cycle2] --c2 init-- @ https://www.dryousefian.com/assets/js/aggregate.js:21
+[   27863ms] [LOG] [cycle2] timeout: 2500 (number) @ https://www.dryousefian.com/assets/js/aggregate.js:21
+[   27863ms] [LOG] [cycle2] slides: > div (string) @ https://www.dryousefian.com/assets/js/aggregate.js:21
+[   27863ms] [LOG] [cycle2] fx: scrollVert (string) @ https://www.dryousefian.com/assets/js/aggregate.js:21
+[   27872ms] TypeError: $(...).responsiveNav is not a function
+    at HTMLDocument.<anonymous> (https://www.dryousefian.com/:407:40)
+    at i (https://www.dryousefian.com/assets/js/aggregate.js:3:33364)
+    at Object.fireWith [as resolveWith] (https://www.dryousefian.com/assets/js/aggregate.js:3:34342)
+    at n.ready (https://www.dryousefian.com/assets/js/aggregate.js:3:36541)
+    at HTMLDocument.J (https://www.dryousefian.com/assets/js/aggregate.js:3:36742)
+[   28386ms] [ERROR] Failed to load resource: net::ERR_ADDRESS_UNREACHABLE @ https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092:1
+[   28389ms] [ERROR] Failed to load resource: net::ERR_ADDRESS_UNREACHABLE @ https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092:1
+[   30009ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://book.getweave.com/static/media/MarkSimonson-ProximaNova.5894a242.ttf @ https://book.getweave.com/469314a1-14ae-4036-8b5e-c4edef8c9a74/text-connect/contact-info?embeddedWidget=true:89
+[   30010ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://book.getweave.com/static/media/ProximaNovaBold.d18f36dc.ttf @ https://book.getweave.com/469314a1-14ae-4036-8b5e-c4edef8c9a74/text-connect/contact-info?embeddedWidget=true:89
+[   30026ms] [WARNING] there was no captcha instance to execute on @ https://book.getweave.com/static/js/bundle.js.gz?v=5.1.8:2
+[   30026ms] [WARNING] there was no captcha instance to execute on @ https://book.getweave.com/static/js/bundle.js.gz?v=5.1.8:2
+[   30027ms] [WARNING] there was no captcha instance to execute on @ https://book.getweave.com/static/js/bundle.js.gz?v=5.1.8:2
+[   30028ms] [WARNING] there was no captcha instance to execute on @ https://book.getweave.com/static/js/bundle.js.gz?v=5.1.8:2
+[   31741ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2 @ https://www.gstatic.com/recaptcha/releases/DqDoLJqJmjhqr0vRwNZ2MCHA/recaptcha__en.js:379
+[   37589ms] [WARNING] The resource https://srwd.sesamehub.com/assets/fonts/fontawesome-pro-6.4.2-web/css/all.min.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.dryousefian.com/:1
+[   37590ms] [WARNING] The resource https://srwd.sesamehub.com/assets/fonts/fontawesome-pro-6.4.2-web/webfonts/fa-brands-400.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.dryousefian.com/:1
+[   58016ms] [WARNING] The resource https://srwd.sesamehub.com/assets/fonts/fontawesome-pro-6.4.2-web/css/all.min.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.dryousefian.com/:1
+[   58016ms] [WARNING] The resource https://srwd.sesamehub.com/assets/fonts/fontawesome-pro-6.4.2-web/webfonts/fa-brands-400.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.dryousefian.com/:1

@@ -1,0 +1,160 @@
+- generic [active] [ref=f7e1]:
+  - link "Skip to content" [ref=f7e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f7e3]:
+    - generic [ref=f7e7]:
+      - link [ref=f7e9] [cursor=pointer]:
+        - /url: https://staging.daxprojects.com/dryousefian/
+      - generic [ref=f7e10]:
+        - generic [ref=f7e11]:
+          - link "(425) 200-4808" [ref=f7e13] [cursor=pointer]:
+            - /url: tel:4252004808
+          - link "Schedule Now" [ref=f7e17] [cursor=pointer]:
+            - /url: https://book2.getweave.com/469314a1-14ae-4036-8b5e-c4edef8c9a74/request-appointment
+          - link "SMILE GALLERY" [ref=f7e21] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/before-and-after/
+          - link "Patient Referral" [ref=f7e25] [cursor=pointer]:
+            - /url: https://forms.wv3.io/form?formId=f589752d-4996-43d8-a858-5b32e4bbb442&companyId=469314a1-14ae-4036-8b5e-c4edef8c9a74
+        - button "Menu Toggle" [ref=f7e29] [cursor=pointer]
+  - generic [ref=f7e32]:
+    - generic [ref=f7e34]:
+      - heading "Health Smile Life" [level=2] [ref=f7e36]:
+        - generic [ref=f7e37]:
+          - generic [ref=f7e38]: Health
+          - generic [ref=f7e39]: Smile
+          - generic [ref=f7e40]: Life
+      - heading "transformations for children teens adults" [level=2] [ref=f7e42]:
+        - text: transformations for
+        - generic [ref=f7e43]:
+          - generic [ref=f7e44]: children
+          - generic [ref=f7e45]: teens
+          - generic [ref=f7e46]: adults
+    - generic [ref=f7e49]:
+      - link [ref=f7e51] [cursor=pointer]:
+        - /url: https://www.americanboardortho.com/
+      - generic [ref=f7e52]:
+        - heading [level=2] [ref=f7e54]:
+          - link "meet Dr. Yousefian" [ref=f7e55] [cursor=pointer]:
+            - /url: /meet-dr-yousefian
+        - generic [ref=f7e56]: I believe orthodontics is about far more than creating a beautiful smile. By improving facial growth and development, breathing, jaw function, and sleep, we can enhance our patients’ overall health, well-being, and quality of life. Throughout my career, I have advanced this philosophy through compassionate patient care, scientific research, education, and innovation. My goal is to help redefine the future of orthodontics by integrating these disciplines into a comprehensive, evidence-based approach that bridges medical and dental sciences and technologies and benefits patients of all ages.
+        - generic [ref=f7e57]:
+          - link "read more" [ref=f7e59] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/meet-the-team/
+          - link "Doctors' Interviews" [ref=f7e63] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/interviews/
+    - generic [ref=f7e69]:
+      - heading "Welcome to Yousefian Orthodontics" [level=1] [ref=f7e71]
+      - generic [ref=f7e72]:
+        - paragraph [ref=f7e73]:
+          - text: For more than 30 years,
+          - link "Dr. Joseph Z. Yousefian" [ref=f7e74] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/meet-dr-yousefian/
+          - text: has provided leading-edge, individualized
+          - link "orthodontic care" [ref=f7e75] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/about-orthodontics/
+          - text: . Nationally and internationally, he is a respected leader in the treatment of pediatric and adult sleep apnea and TMJ therapy. His patients achieve amazing smiles, and functional results that improve their
+          - link "quality of life" [ref=f7e76] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/testimonials/
+          - text: "!"
+        - paragraph [ref=f7e77]:
+          - text: Utilizing innovative technology and techniques, Dr. Yousefian offers minimally-invasive and
+          - link "surgical options" [ref=f7e78] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/oral-and-maxillofacial-surgery/
+          - text: for the most complex airway compromised patients. He also provides effective treatment for
+          - link "TMJ-TMD" [ref=f7e79] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/tmj-tmd/
+          - text: ", offers"
+          - link "surgical" [ref=f7e80] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/surgical-orthodontics/
+          - text: and
+          - link "craniofacial" [ref=f7e81] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/craniofacial-orthodontics/
+          - text: orthodontics, and braces and
+          - link "Invisalign®" [ref=f7e82] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/invisalign-treatment/
+          - text: clear aligners for
+          - link "children" [ref=f7e83] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/for-children/
+          - text: and
+          - link "adults" [ref=f7e84] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/for-adults/
+          - text: .
+        - paragraph [ref=f7e85]:
+          - text: Dr. Yousefian and his team want you to know
+          - link "you are heard and respected" [ref=f7e86] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/what-sets-us-apart/
+          - text: ", and to be confident the office will do everything possible to help you. Located in"
+          - link "Bellevue, WA, Yousefian Orthodontics" [ref=f7e87] [cursor=pointer]:
+            - /url: https://staging.daxprojects.com/dryousefian/office-location/
+          - text: welcomes the opportunity to ensure you achieve the health, life, and smile you deserve.
+          - link "Schedule an appointment to learn more, today" [ref=f7e88] [cursor=pointer]:
+            - /url: https://book2.getweave.com/469314a1-14ae-4036-8b5e-c4edef8c9a74/request-appointment
+          - text: "!"
+    - generic [ref=f7e89]:
+      - generic [ref=f7e90]:
+        - heading "adult treatment" [level=2] [ref=f7e92]:
+          - text: adult
+          - generic [ref=f7e93]: treatment
+        - generic [ref=f7e94]:
+          - paragraph [ref=f7e95]: "Yousefian Orthodontics straightens teeth, improving oral health and overall wellness while changing smiles, with specialized services for adults. We respect your individual concerns and will work with you to achieve your goals: efficiently and comfortably."
+          - paragraph [ref=f7e96]: Our approach to orthodontics goes beyond aesthetics. In focusing on improving your bite and airway concerns, Dr. Yousefian ensures you finish treatment with better function and a great smile – a smile that brims with confidence!
+        - link "learn more about adult treatment" [ref=f7e98] [cursor=pointer]:
+          - /url: https://staging.daxprojects.com/dryousefian/invisalign-treatment/
+      - generic [ref=f7e101]:
+        - heading "Children/Teen treatment" [level=2] [ref=f7e103]:
+          - text: Children/Teen
+          - generic [ref=f7e104]: treatment
+        - generic [ref=f7e105]:
+          - paragraph [ref=f7e106]: At Yousefian Orthodontics, we believe everyone deserves a bright, healthy smile they love to share. We offer proven treatment options for children and teens, correcting functional issues and guiding the development of the growing oral cavity.
+          - paragraph [ref=f7e107]: Utilizing leading-edge techniques and state-of-the-art appliances, Dr. Yousefian ensures proper airway function and a stable bite. The new smiles he creates last lifetimes, transforming his patients’ self-esteem and the confidence with which they take on the world!
+        - link "learn more about teen treatment" [ref=f7e109] [cursor=pointer]:
+          - /url: https://staging.daxprojects.com/dryousefian/early-orthodontic-treatment/
+      - generic [ref=f7e112]:
+        - heading "sleep apnea" [level=2] [ref=f7e114]:
+          - text: sleep
+          - generic [ref=f7e115]: apnea
+        - generic [ref=f7e116]:
+          - paragraph [ref=f7e117]: Sleep apnea can cause serious health issues at any age. As breathing stops and starts throughout your sleep period, it keeps you from being well-rested and can deprive vital organs, including the brain, from receiving enough oxygen.
+          - paragraph [ref=f7e118]: Dr. Yousefian is a world-renowned expert in treating sleep apnea in children and adults. Utilizing integrated techniques, he offers a non-surgical treatment that corrects the root causes of apnea. Your sleep will improve, and so will your health and outlook on life!
+        - link "learn more about sleep apnea" [ref=f7e120] [cursor=pointer]:
+          - /url: https://staging.daxprojects.com/dryousefian/sleep-apnea/
+      - generic [ref=f7e123]:
+        - heading "TMJ" [level=2] [ref=f7e125]
+        - generic [ref=f7e127]:
+          - paragraph [ref=f7e128]: Millions of Americans suffer from chronic facial and neck pain as well as severe, recurring headaches. In some cases, this pain is due to Temporomandibular Disorder, also known as TMD.
+          - paragraph [ref=f7e129]: Your temporomandibular joints, or TMJs, connect your lower jawbone to your skull. These joints get a lot of use throughout the day as you speak, chew, swallow, and yawn.
+        - link "learn more about Temporomandibular Disorder" [ref=f7e131] [cursor=pointer]:
+          - /url: https://staging.daxprojects.com/dryousefian/tmj-tmd/
+  - contentinfo [ref=f7e134]:
+    - generic [ref=f7e136]:
+      - link [ref=f7e139] [cursor=pointer]:
+        - /url: https://staging.daxprojects.com/dryousefian/
+      - generic [ref=f7e140]:
+        - link "(425) 200-4808" [ref=f7e143] [cursor=pointer]:
+          - /url: tel:4252004808
+        - link "12715 Bel-Red Rd Suite 140 Bellevue, WA 98005" [ref=f7e146] [cursor=pointer]:
+          - /url: https://staging.daxprojects.com/dryousefian/office-location/
+          - text: 12715 Bel-Red Rd Suite 140Bellevue, WA 98005
+        - link "Schedule Now" [ref=f7e148] [cursor=pointer]:
+          - /url: https://book2.getweave.com/469314a1-14ae-4036-8b5e-c4edef8c9a74/request-appointment
+        - list [ref=f7e152]:
+          - listitem [ref=f7e153]:
+            - link "Facebook-f" [ref=f7e154] [cursor=pointer]:
+              - /url: https://www.facebook.com/JosephYousefianOrthodontics/
+          - listitem [ref=f7e158]:
+            - link "Google" [ref=f7e159] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/UJMxYjEfQQZTMAGFA
+          - listitem [ref=f7e163]:
+            - link "X-twitter" [ref=f7e164] [cursor=pointer]:
+              - /url: https://twitter.com/YousefianOrtho
+          - listitem [ref=f7e168]:
+            - link "Yelp" [ref=f7e169] [cursor=pointer]:
+              - /url: https://www.yelp.com/biz/yousefian-orthodontics-for-children-teens-and-adults-bellevue-3
+    - paragraph [ref=f7e176]:
+      - text: © 2026 Yousefian Orthodontics |
+      - link "Site Map" [ref=f7e177] [cursor=pointer]:
+        - /url: https://staging.daxprojects.com/dryousefian/sitemap/
+      - text: "|"
+      - link "Back to Top" [ref=f7e178] [cursor=pointer]:
+        - /url: "#top"
+  - generic [ref=f7e179]: tablet
